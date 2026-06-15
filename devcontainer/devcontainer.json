@@ -1,0 +1,4 @@
+{
+  "name" : "tp4 docker",
+  "image" : "mcr.microsoft.com/devcontainers/universal:2"
+}
